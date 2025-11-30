@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /admin
+Disallow: /api/
+Disallow: /api
+Disallow: /*?s=
+Disallow: /*?search=
+Disallow: /*?q=
+Disallow: /search?
+Disallow: /search/
+
+Sitemap: https://Diff AI Studio/sitemap.xml
